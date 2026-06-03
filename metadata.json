@@ -1,0 +1,6 @@
+{
+  "name": "Claude Skills Explorer",
+  "description": "An interactive, responsive prototype implementing the Progressive Confidence Funnel for Claude Skills, featuring transparent risk limitations, persona-filtered social proof, and virtual sandbox simulation suites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
